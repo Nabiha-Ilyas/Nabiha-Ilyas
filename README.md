@@ -16,7 +16,7 @@
 
 ### 🚀 Featured Projects
 
-- 🎬 **[Movie Recommendation System](https://github.com/YOUR-USERNAME/movie-recommendation-system):** A Machine Learning project recommending movies based on content similarity and user preferences.
+- 🎬 **[Movie Recommendation System](https://github.com/Nabiha-Ilyas/movie-recommendation-system):** A Machine Learning project recommending movies based on content similarity and user preferences.
 
 ---
 
