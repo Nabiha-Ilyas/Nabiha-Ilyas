@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=150&section=header" />
 
-# Nabiha 👋
+# Nabiha Ilyas
 ### Data Analytics & Engineering Learner | Aspiring Data Specialist
 
 <img src="https://img.shields.io/badge/She%2FHer-FF6EC7?style=flat-square" />
